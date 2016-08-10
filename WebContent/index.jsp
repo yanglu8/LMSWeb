@@ -15,7 +15,7 @@
 
 <div class="container">
 <div class="container">
-  <h2>Let's DO somthing</h2>
+  <h2>Let's DO something</h2>
   <ul class="nav nav-tabs">
     <li class="active"><a href="#home">Everything</a></li>
     <li><a href="#menu1">Articles</a></li>
